@@ -5,7 +5,7 @@
 Galacticraft [![Join our Discord!](https://img.shields.io/discord/449966345665249290.svg?color=blue&label=Discord&logo=discord&style=flat-square)](https://discord.gg/YBVne7R) [![Support the devs!](https://img.shields.io/badge/Patreon-Support-orange.svg?style=flat-square)](https://www.patreon.com/micdoodle8)
 ============
 
-An advanced space exploration mod for Minecraft.
+An advanced space exploration mod for Minecraft. pee
 
 Full documentation is at our wiki: [wiki.micdoodle8.com](https://wiki.micdoodle8.com/wiki/Galacticraft)
 
